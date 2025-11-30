@@ -74,7 +74,3 @@ Testes base em [AutomanagerApplicationTests.java](atvii-autobots-microservico-sp
 ## Configuração
 
 Edite [application.properties](atvii-autobots-microservico-spring/automanager/src/main/resources/application.properties) para portas, banco de dados, etc.
-
-## Licença
-
-Projeto educacional. Ajuste conforme necessário.
